@@ -14,7 +14,7 @@ import {
   FlatList,
   Text,
 } from 'react-native';
-import Card from './src/utils/components/Card';
+import Card from './src/components/Card';
 import {getDeck, shuffleAndGetRandom} from './src/utils/index';
 
 class App extends React.Component {
